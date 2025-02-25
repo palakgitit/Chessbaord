@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Emilys Candy';
+    src: url('../font/EmilysCandy-Regular.woff') format('woff2'),
+        url('../font/EmilysCandy-Regular.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
