@@ -1,8 +1,5 @@
 *{
-    font-size: 50px;
-    text-align: center;
-    color: rgb(28, 18, 37);
-    font-family: 'Emilys Candy';
+    
     box-sizing: border-box;
     
 }
@@ -11,7 +8,9 @@ h2{
     text-decoration: underline dotted;
     color: rgb(28, 18, 37);
     font-family: 'Emilys Candy';
-    box-sizing: border-box;
+    font-size: 50px;
+    text-align: center;
+  
 }
 
 
